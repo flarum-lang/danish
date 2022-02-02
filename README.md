@@ -1,6 +1,6 @@
 # Danish language pack for [Flarum](https://flarum.org/)
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/flarum-lang/danish?color=success&label=stable)](https://packagist.org/packages/yourname/flarum-lang-xxish) 
+[![Latest Stable Version](https://img.shields.io/packagist/v/flarum-lang/danish?color=success&label=stable)](https://packagist.org/packages/flarum-lang/danish) 
 [![Latest Unstable Version](https://img.shields.io/packagist/v/flarum-lang/danish?include_prereleases&label=unstable)](https://packagist.org/packages/flarum-lang/danish) 
 [![License](https://img.shields.io/packagist/l/flarum-lang/danish)](https://packagist.org/packages/flarum-lang/danish) 
 [![Total Downloads](https://img.shields.io/packagist/dt/flarum-lang/danish)](https://packagist.org/packages/flarum-lang/danish/stats) 
