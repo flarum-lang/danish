@@ -6,16 +6,9 @@
 	"keywords": [
 		"locale",
 		"flarum",
-		"dnk-locale"
+		"da-locale"
 	],
 	"license": "MIT",
-	"authors": [
-		{
-			"name": "Your Name",
-			"email": "your@email.net",
-			"homepage": "https://yourhomepage.com/"
-		}
-	],
 	"support": {
 		"issues": "https://github.com/flarum-lang/danish/issues",
 		"source": "https://github.com/flarum-lang/danish"
@@ -35,7 +28,7 @@
 			}
 		},
 		"flarum-locale": {
-			"code": "dnk",
+			"code": "da",
 			"title": "Danish"
 		},
 		"extiverse": {
