@@ -2,7 +2,7 @@ CHANGELOG
 =========
 
 
-1.0.1 (XXXX-XX-XX)
+1.0.0 (XXXX-XX-XX)
 ------------------
 
 **General changes**:
