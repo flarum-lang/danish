@@ -181,6 +181,15 @@ core:
         next_button: 'Næste side'
         page_counter: 'Side {current} af {total}'
       total_users: 'Total antal brugere: {count}'
+  api:
+    invalid_username_message: 'Brugernavnet må kun indeholder bogstaver, tal og streger.'
+  email:
+    activate_account:
+      body: "Hej {username}!\n\nNogen (forhåbentlig dig!) har tilmeldt sig {forum} med denne e-mailadresse.\n\nHvis dette var dig, skal du blot klikke på følgende link, og din konto vil blive aktiveret:\n{url}\n\nHvis du ikke tilmeldte dig, bedes du ignorere denne e-mail.\n"
+      subject: 'Aktivér din nye konto'
+    confirm_email:
+      body: "Hej {username}!\n\nNogen (forhåbentlig dig!) har ændret deres e-mailadresse på {forum} til denne.\n\nHvis dette var dig, skal du blot klikke på følgende link, og din e-mail vil blive bekræftet:\n{url}\n\nHvis dette ikke var dig, bedes du ignorere denne e-mail.\n"
+      subject: 'Bekræft din nye e-mailadresse'
   forum:
     change_email:
       incorrect_password_message: 'Adgangskoden du tastede er ikke korrekt.'
@@ -324,3 +333,44 @@ core:
       permission_denied_message: 'Du har ikke tilladelse til at gøre dette.'
       rate_limit_exceeded_message: 'Du er lidt for hurtig. Prøv venligst igen om få sekunder.'
       render_failed_message: 'Beklager, vi fandt en fejl da vi skulle vise dette indhold. Hvis du er en almindelige bruger, kan du komme tilbage senere. Hvis du er en administrator kan du tjekke dine Flarum log-filer for mere info.'
+    meta_titles:
+      with_page_title: '{pageNumber, plural, =1 {{pageTitle} - {forumName}} other {{pageTitle}: Side # - {forumName}}}'
+      without_page_title: '{pageNumber, plural, =1 {{forumName}} other {Side # - {forumName}}}'
+    modal:
+      close: Luk
+    nav:
+      drawer_button: 'Åben navigationsskuffe'
+    series:
+      three_text: '{first}, {second} og {third}'
+      two_text: '{first} og {second}'
+    username:
+      deleted_text: '[slettet]'
+  views:
+    admin:
+      extensions:
+        disable: 'Slå fra'
+        empty: 'Ingen installerede udvidelser'
+        enable: 'Slå til'
+        name: 'Udvidelsens navn'
+        package_name: Pakkenavn
+        version: Version
+      title: Administration
+    confirm_email:
+      text: 'Klik på knappen nedenfor for at bekræfte din kontos e-mail.'
+    content:
+      javascript_disabled_message: 'Dette websted ses bedst i en moderne browser med JavaScript aktiveret.'
+      load_error_message: 'Noget gik galt under forsøget på at indlæse den fulde version af dette websted. Prøv at opdatere denne side for at rette fejlen.'
+    error:
+      csrf_token_mismatch: 'Du har været inaktiv for længe.'
+      csrf_token_mismatch_return_link: 'Gå tilbage for at prøve igen'
+      invalid_confirmation_token: 'Dette bekræftelseslink er allerede blevet brugt eller er ugyldigt.'
+      not_authenticated: 'Du har ikke tilladelse til at tilgå denne side. Prøv igen efter at have logget ind.'
+      not_found: 'Siden du leder efter blev ikke fundet.'
+      not_found_return_link: 'Gå tilbage til {forum}'
+      permission_denied: 'Du har ikke tilladelse til at tilgå denne side.'
+      unknown: 'En fejl opstod i forbindelse med hentning af siden.'
+    log_out:
+      log_out_confirmation: 'Er du sikker på du gerne vil logge af {forum}?'
+    reset_password:
+      confirm_password_label: 'Bekræft ny adgangskode'
+      new_password_label: 'Ny adgangskode'
