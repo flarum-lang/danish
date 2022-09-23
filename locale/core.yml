@@ -190,6 +190,11 @@ core:
     confirm_email:
       body: "Hej {username}!\n\nNogen (forhåbentlig dig!) har ændret deres e-mailadresse på {forum} til denne.\n\nHvis dette var dig, skal du blot klikke på følgende link, og din e-mail vil blive bekræftet:\n{url}\n\nHvis dette ikke var dig, bedes du ignorere denne e-mail.\n"
       subject: 'Bekræft din nye e-mailadresse'
+    reset_password:
+      body: "Hej {username}!\n\nNogen (forhåbentlig dig!) har sendt en anmodning om glemt adgangskode til din konto på {forum}.\n\nHvis dette var dig, skal du klikke på følgende link for at nulstille din adgangskode:\n{url}\n\nHvis du ikke ønsker at ændre din adgangskode, skal du bare ignorere denne e-mail, og så sker der ikke noget.\n"
+    send_test:
+      body: "Hej {username}!\n\nDette er en test-e-mail for at bekræfte, at din Flarum-e-mail-konfiguration fungerer korrekt.\n\nHvis dette var dig, betyder denne e-mail, at din konfiguration virker!\n\nHvis dette ikke var dig, bedes du ignorere denne e-mail.\n"
+      subject: 'Flarum Email Test'
   forum:
     change_email:
       incorrect_password_message: 'Adgangskoden du tastede er ikke korrekt.'
@@ -314,6 +319,15 @@ core:
       sent_message: Sendt
     welcome_hero:
       hide: 'Skjul velkomstbesked'
+  group:
+    admin: Admin
+    admins: Administratorer
+    guest: Gæst
+    guests: Gæster
+    member: Medlem
+    members: Medlemmer
+    mod: Moderator
+    mods: Moderatorer
   lib:
     alert:
       dismiss_a11y_label: 'Skjul besked'
@@ -345,6 +359,48 @@ core:
       two_text: '{first} og {second}'
     username:
       deleted_text: '[slettet]'
+  ref:
+    all_discussions: 'Alle diskussioner'
+    change_email: 'Ændre e-mail'
+    change_password: 'Ændre adgangskode'
+    color: Farve
+    confirm_email: 'Bekræft e-mail'
+    confirm_password: 'Bekræft adgangskode'
+    confirmation_email_sent: 'Vi har sendt en bekræftelses-e-mail til {email}. Hvis den ikke kommer snart, så tjek din spam-mappe.'
+    delete: Slet
+    delete_forever: 'Slet for altid'
+    discussions: Diskussioner
+    edit: Redigér
+    edit_user: 'Redigér bruger'
+    email: E-mail
+    extensions: Udvidelser
+    icon: Ikon
+    load_more: 'Hent flere'
+    loading: 'Henter ...'
+    log_in: 'Log ind'
+    log_out: 'Log ud'
+    mark_all_as_read: 'Markér alle som læst'
+    next_page: 'Næste side'
+    notifications: Påmindelser
+    okay: OK
+    password: Adgangskode
+    posts: Indlæg
+    previous_page: 'Forrige side'
+    remove: Fjern
+    rename: Omdøb
+    reply: Svar
+    reset_your_password: 'Nulstil din adgangskode'
+    restore: Gendan
+    save_changes: 'Gem ændringer'
+    settings: Indstillinger
+    sign_up: 'Opret konto'
+    some_others: '{count, plural, one {# andre} other {# andre}}'
+    start_a_discussion: 'Start en diskussion'
+    username: Brugernavn
+    users: Brugere
+    view: Vis
+    write_a_reply: 'Skriv et svar ...'
+    you: Dig
   views:
     admin:
       extensions:
