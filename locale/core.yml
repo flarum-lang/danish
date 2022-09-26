@@ -59,6 +59,9 @@ core:
       delete_button: 'Slet gruppe'
       delete_confirmation: 'Er du sikker på du ønsker at slette denne gruppe? Gruppemedlemmerne vil IKKE blive slettet.'
       hide_label: 'Skjul på forum'
+      name_label: Navn
+      plural_placeholder: 'Flertal (eks. moderatorer)'
+      singular_placeholder: 'Ental (eks. moderator)'
       title: 'Opret gruppe'
     email:
       addresses_heading: Adresser
