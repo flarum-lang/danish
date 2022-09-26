@@ -49,6 +49,16 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`flarum/approval`](https://github.com/flarum/approval) | [![Translation status](https://weblate.rob006.net/widgets/flarum/da/flarum-approval/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-approval/da/) |
+| [`flarum/emoji`](https://github.com/flarum/emoji) | [![Translation status](https://weblate.rob006.net/widgets/flarum/da/flarum-emoji/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-emoji/da/) |
+| [`flarum/flags`](https://github.com/flarum/flags) | [![Translation status](https://weblate.rob006.net/widgets/flarum/da/flarum-flags/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-flags/da/) |
+| [`flarum/likes`](https://github.com/flarum/likes) | [![Translation status](https://weblate.rob006.net/widgets/flarum/da/flarum-likes/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-likes/da/) |
+| [`flarum/lock`](https://github.com/flarum/lock) | [![Translation status](https://weblate.rob006.net/widgets/flarum/da/flarum-lock/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-lock/da/) |
+| [`flarum/markdown`](https://github.com/flarum/markdown) | [![Translation status](https://weblate.rob006.net/widgets/flarum/da/flarum-markdown/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-markdown/da/) |
+| [`flarum/mentions`](https://github.com/flarum/mentions) | [![Translation status](https://weblate.rob006.net/widgets/flarum/da/flarum-mentions/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-mentions/da/) |
+| [`flarum/nicknames`](https://github.com/flarum/nicknames) | [![Translation status](https://weblate.rob006.net/widgets/flarum/da/flarum-nicknames/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-nicknames/da/) |
+| [`flarum/statistics`](https://github.com/flarum/statistics) | [![Translation status](https://weblate.rob006.net/widgets/flarum/da/flarum-statistics/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-statistics/da/) |
+| [`flarum/sticky`](https://github.com/flarum/sticky) | [![Translation status](https://weblate.rob006.net/widgets/flarum/da/flarum-sticky/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/flarum-sticky/da/) |
 
 <!-- flarum-extensions-list-stop -->
 
