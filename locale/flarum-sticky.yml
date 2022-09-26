@@ -6,3 +6,11 @@ flarum-sticky:
   admin:
     permissions:
       sticky_discussions_label: 'Klæbrige diskussioner'
+  forum:
+    discussion_controls:
+      unsticky_button: 'Fjern klæbrig'
+    post_stream:
+      discussion_stickied_text: '{username} gjorde diskussionen klæbrig.'
+      discussion_unstickied_text: '{username} fjernede klæbrig fra diskussionen.'
+  ref:
+    sticky: Klæbrig
