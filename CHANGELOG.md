@@ -9,6 +9,7 @@ CHANGELOG
 
 * Updated Day.js translations.
 * Updated Flarum core translations.
+* Updated validation translations.
 
 
 **Added support for new extensions**:
@@ -23,5 +24,8 @@ CHANGELOG
 * [`flarum/nicknames`](https://github.com/flarum/nicknames)
 * [`flarum/statistics`](https://github.com/flarum/statistics)
 * [`flarum/sticky`](https://github.com/flarum/sticky)
+* [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
+* [`flarum/suspend`](https://github.com/flarum/suspend)
+* [`flarum/tags`](https://github.com/flarum/tags)
 
 
