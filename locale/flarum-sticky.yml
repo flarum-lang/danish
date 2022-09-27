@@ -7,7 +7,10 @@ flarum-sticky:
     permissions:
       sticky_discussions_label: 'Klæbrige diskussioner'
   forum:
+    badge:
+      sticky_tooltip: Klæbrig
     discussion_controls:
+      sticky_button: Klæbrig
       unsticky_button: 'Fjern klæbrig'
     post_stream:
       discussion_stickied_text: '{username} gjorde diskussionen klæbrig.'
