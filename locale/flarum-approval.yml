@@ -9,6 +9,10 @@ flarum-approval:
       reply_without_approval_label: 'Svar på diskussioner uden godkendelse'
       start_discussions_without_approval_label: 'Start diskussion uden godkendelse'
   forum:
+    badge:
+      awaiting_approval_tooltip: 'Afventer godkendelse'
+    post:
+      awaiting_approval_text: 'Afventer godkendelse'
     post_controls:
       approve_button: Godkend
   ref:

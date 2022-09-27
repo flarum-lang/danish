@@ -11,12 +11,15 @@ flarum-likes:
       like_own_posts_label: 'Brugere må ''Synes godt om'' deres egne indlæg'
   forum:
     notifications:
+      others_text: 'nogle andre'
       post_liked_text: '{username} syntes godt om dit indlæg'
     post:
       like_link: 'Synes godt om'
       liked_by_self_text: '{users} synes godt om dette.'
       liked_by_text: '{count, plural, one {{users} synes godt om dette} other {{users} synes godt om dette}}.'
+      others_link: 'nogle andre'
       unlike_link: 'Fjern ''Synes godt om'''
+      you_text: dig
     post_likes:
       title: 'Brugere som synes godt om dette'
     settings:
