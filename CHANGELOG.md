@@ -16,6 +16,7 @@ CHANGELOG
 
 * [`flarum/approval`](https://github.com/flarum/approval)
 * [`flarum/emoji`](https://github.com/flarum/emoji)
+* [`flarum/extension-manager`](https://github.com/flarum/extension-manager)
 * [`flarum/flags`](https://github.com/flarum/flags)
 * [`flarum/likes`](https://github.com/flarum/likes)
 * [`flarum/lock`](https://github.com/flarum/lock)
