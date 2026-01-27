@@ -88,6 +88,7 @@ php flarum cache:clear
 
 | Extension | Status |
 | --- | --- |
+| [`startracex/flarum-dark`](https://github.com/startracex/flarum-dark) | [![Translation status](https://weblate.rob006.net/widgets/flarum/da/startracex-dark/svg-badge.svg)](https://weblate.rob006.net/projects/flarum/startracex-dark/da/) |
 
 <!-- various-extensions-list-stop -->
 
