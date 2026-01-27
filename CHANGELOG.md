@@ -28,5 +28,6 @@ CHANGELOG
 * [`flarum/subscriptions`](https://github.com/flarum/subscriptions)
 * [`flarum/suspend`](https://github.com/flarum/suspend)
 * [`flarum/tags`](https://github.com/flarum/tags)
+* [`startracex/flarum-dark`](https://github.com/startracex/flarum-dark)
 
 
