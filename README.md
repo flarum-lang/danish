@@ -19,7 +19,7 @@ This language pack contains Danish translations for Flarum (compatible with `1.5
 You can install language pack using [Composer](https://getcomposer.org/):
 
 ```console
-composer require flarum-lang/danish:dev-master
+composer require "flarum-lang/danish:@dev"
 ```
 
 Then enable extension in admin panel of your Flarum.
