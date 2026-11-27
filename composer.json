@@ -1,24 +1,24 @@
 {
 	"name": "flarum-lang/danish",
+	"description": "Danish Language Pack for Flarum",
 	"type": "flarum-extension",
-	"description": "Danish language pack for Flarum.",
-	"homepage": "https://github.com/flarum-lang/danish",
 	"keywords": [
-		"locale",
-		"flarum",
-		"da-locale"
+		"flarum-locale"
 	],
+	"homepage": "https://github.com/flarum-lang/danish",
 	"license": "MIT",
 	"support": {
 		"issues": "https://github.com/flarum-lang/danish/issues",
+		"forum": "https://discuss.flarum.org/d/40180",
 		"source": "https://github.com/flarum-lang/danish"
 	},
 	"require": {
 		"flarum/core": "^1.5"
 	},
-	"minimum-stability": "dev",
-	"prefer-stable": true,
 	"extra": {
+		"branch-alias": {
+			"dev-master": "1.x-dev"
+		},
 		"flarum-extension": {
 			"title": "Danish",
 			"category": "language",
@@ -30,13 +30,7 @@
 		},
 		"flarum-locale": {
 			"code": "da",
-			"title": "Danish"
-		},
-		"extiverse": {
-			"discuss": ""
-		},
-		"branch-alias": {
-			"dev-master": "1.x-dev"
+			"title": "Dansk"
 		}
 	}
 }
